@@ -1,2 +1,2 @@
 # test_catch_framework
-Demo Catch Test Framework in CLion
+Demo of how to use Catch Test Framework in CLion
