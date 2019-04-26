@@ -4,8 +4,6 @@
 
 #include "Bar.h"
 
-#include "testsuites/catch.hpp"
-
 Bar::Bar()
 {
 
