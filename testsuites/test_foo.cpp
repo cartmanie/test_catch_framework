@@ -1,9 +1,9 @@
 //
 // Created by JiangChao on 2019-04-26.
 //
-#include "../Foo.h"
+#include "../src/Foo.h"
 #include "catch.hpp"
-#include "../Bar.h"
+#include "../src/Bar.h"
 
 TEST_CASE(" class Foo", "Foo")
 {
